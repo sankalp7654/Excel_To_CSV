@@ -5,7 +5,7 @@ The program make use of Apache POI library to work on excel workbooks using java
 ## How to use this program
 
 Mac Users :
-please provide the input path like  
+Please provide the input path like  
 /Users/xyz/Desktop/sankalp.xls
 
 Please provide the output path like
