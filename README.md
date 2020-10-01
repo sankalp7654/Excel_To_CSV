@@ -8,5 +8,5 @@ Mac Users :
 please provide the input path like  
 /Users/xyz/Desktop/sankalp.xls
 
-Please provide the output path like
+Please provide the output path like:
 /Users/xyz/Desktop/
